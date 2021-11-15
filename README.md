@@ -1,4 +1,4 @@
-# matplotlib-challenge
+# Anti-cancer pharmaceutical study analysis
 
 ## Description
 Used pandas and matplotlib to analyze anti-cancer pharmaceutical study results in 249 mice identified with SCC tumor growth. In this study, mice were treated through a variety of drug regimens. Analysis looks at correlation between drug regimens and final tumor volume.
